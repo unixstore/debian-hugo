@@ -1,0 +1,36 @@
+Source: hugo
+Section: web
+Priority: optional
+Maintainer: z17 Dev <mail@z17.dev>
+Uploaders: z17 Dev <mail@z17.dev>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
+Homepage: https://gohugo.io
+Vcs-Browser: https://github.com/pkgstore/linux-deb-hugo
+Vcs-Git: https://github.com/pkgstore/linux-deb-hugo.git
+Rules-Requires-Root: no
+
+# -------------------------------------------------------------------------------------------------------------------- #
+# Package: hugo
+# -------------------------------------------------------------------------------------------------------------------- #
+
+Package: hugo
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Fast and flexible Static Site Generator written in Go
+ Hugo is a static site generator written in Go. It is optimized for speed,
+ ease of use, and configurability. Hugo takes a directory with content and
+ templates, and renders them into a full HTML website.
+ .
+ Hugo relies on Markdown files with front matter for meta data. And you
+ can run Hugo from any directory. This works well for shared hosts and
+ other systems where you don’t have a privileged account.
+ .
+ Hugo renders a typical website of moderate size in a fraction of a
+ second. A good rule of thumb is that each piece of content renders in
+ around 1 millisecond.
+ .
+ Hugo is meant to work well for any kind of website including blogs,
+ tumblelogs and docs.
+ .
+ Complete documentation is available at https://gohugo.io/

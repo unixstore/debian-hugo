@@ -1,0 +1,89 @@
+hugo (0.101.0-1000) unstable; urgency=medium
+
+  * NEW: Hugo v0.101.0.
+
+ -- z17 Dev <mail@z17.dev>  Tue, 23 Aug 2022 15:18:00 +0300
+
+hugo (0.98.0-1000) unstable; urgency=medium
+
+  * NEW: Hugo v0.98.0.
+
+ -- z17 Dev <mail@z17.dev>  Tue, 03 May 2022 23:10:00 +0300
+
+hugo (0.97.2-1000) unstable; urgency=medium
+
+  * NEW: Hugo v0.97.2.
+
+ -- z17 Dev <mail@z17.dev>  Sun, 17 Apr 2022 15:02:00 +0300
+
+hugo (0.96.0-1000) unstable; urgency=medium
+
+  * NEW: Hugo v0.96.0.
+
+ -- z17 Dev <mail@z17.dev>  Thu, 07 Apr 2022 16:26:00 +0300
+
+hugo (0.95.0-100) unstable; urgency=medium
+
+  * NEW: Hugo v0.95.0.
+
+ -- z17 Dev <mail@z17.dev>  Tue, 22 Mar 2022 01:00:00 +0300
+
+hugo (0.92.2-100) unstable; urgency=medium
+
+  * NEW: Hugo v0.92.2.
+
+ -- z17 Dev <mail@z17.dev>  Sun, 13 Feb 2022 12:00:00 +0300
+
+hugo (0.92.1-100) unstable; urgency=medium
+
+  * NEW: Hugo v0.92.1.
+
+ -- z17 Dev <mail@z17.dev>  Sat, 29 Jan 2022 22:00:00 +0300
+
+hugo (0.92.0-100) unstable; urgency=medium
+
+  * NEW: Hugo v0.92.0.
+
+ -- Package Store <kitsune.solar@gmail.com>  Sat, 15 Jan 2022 23:00:00 +0300
+
+hugo (0.89.4-101) unstable; urgency=medium
+
+  * FIX: Revert to Hugo v0.88.1.
+
+ -- Package Store <kitsune.solar@gmail.com>  Tue, 23 Nov 2021 23:00:00 +0300
+
+hugo (0.89.4-100) unstable; urgency=medium
+
+  * NEW: Hugo v0.89.4.
+
+ -- Package Store <kitsune.solar@gmail.com>  Thu, 18 Nov 2021 19:00:00 +0300
+
+hugo (0.89.3-100) unstable; urgency=medium
+
+  * NEW: Hugo v0.89.3.
+
+ -- Package Store <kitsune.solar@gmail.com>  Tue, 16 Nov 2021 10:00:00 +0300
+
+hugo (0.89.2-100) unstable; urgency=medium
+
+  * NEW: Hugo v0.89.2.
+
+ -- Package Store <kitsune.solar@gmail.com>  Wed, 10 Nov 2021 12:00:00 +0300
+
+hugo (0.89.1-100) unstable; urgency=medium
+
+  * NEW: Hugo v0.89.1.
+
+ -- Package Store <kitsune.solar@gmail.com>  Sat, 06 Nov 2021 17:30:00 +0300
+
+hugo (0.89.0-100) unstable; urgency=medium
+
+  * NEW: Hugo v0.89.0.
+
+ -- Package Store <kitsune.solar@gmail.com>  Tue, 02 Nov 2021 22:30:00 +0300
+
+hugo (0.88.1-100) unstable; urgency=medium
+
+  * Initial Release
+
+ -- Package Store <kitsune.solar@gmail.com>  Mon, 20 Sep 2021 14:00:00 +0300
